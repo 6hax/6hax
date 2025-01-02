@@ -10,6 +10,6 @@ Me chamo **Pedro**! Atualmente, estou estudando **C++** e explorando novas possi
 ---
 
 ## 📊 Estatísticas  
-![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=haxbash&theme=github_dark&show_icons=true)
+![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=haxbash&theme=default&show_icons=true)
 
 ---
