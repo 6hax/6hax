@@ -5,7 +5,7 @@ Me chamo **Pedro**! Atualmente, estou estudando **C++** e explorando novas possi
 ---
 
 ## 🔧 Tecnologias e Ferramentas  
-[![skills](https://skillicons.dev/icons?i=typescript,javascript,python,html,css,nodejs,mongodb,figma,discord,vscode,sublime)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=javascript,python,html,css,nodejs,mongodb,figma,discord,vscode,sublime)](https://skillicons.dev)
 
 ---
 
