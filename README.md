@@ -1,6 +1,6 @@
 # 👋 Olá!  
 
-Me chamo **Pedro**! Atualmente, estou estudando **C++** e explorando novas possibilidades no mundo da programação.
+Me chamo **Hax**! Atualmente, estou estudando **C++** e explorando novas possibilidades no mundo da programação.
 
 ---
 
