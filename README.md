@@ -5,7 +5,7 @@ My name is **Hax**! I'm currently studying **C++** and exploring new possibiliti
 ---
 
 ## 🔧 Technologies and Tools  
-[![skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,nodejs,mongodb)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,typescript,javascript,python,html,css,tailwind,nodejs,mongodb)](https://skillicons.dev)
 
 ---
 
