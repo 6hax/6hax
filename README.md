@@ -4,6 +4,6 @@ My name is **Hax**! I'm currently studying **Java** and exploring new possibilit
 
 ---
 
-![Hax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haxbash&theme=discord_old_blurple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxbash&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
