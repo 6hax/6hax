@@ -1,6 +1,6 @@
 # 👋 Hello!  
 
-My name is **Hax**! I'm currently studying **C++** and exploring new possibilities in the world of programming.  
+My name is **Hax**! I'm currently studying **Java** and exploring new possibilities in the world of programming.  
 
 ---
 
