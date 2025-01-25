@@ -4,6 +4,5 @@ My name is **Hax**! I'm currently studying **Java** and exploring new possibilit
 --
 [![skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,nodejs,mongodb)](https://skillicons.dev)
 -
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxbash&theme=slateorange&show_icons=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haxbash&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
