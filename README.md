@@ -20,5 +20,4 @@ I'm **Hax**, a passionate programmer constantly exploring new technologies and e
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 
 ---
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haxbash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
+ 
