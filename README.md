@@ -1,6 +1,6 @@
 # 👋 Hello, world!  
 
-I'm **Hax**, a passionate programmer constantly exploring new technologies and expanding my knowledge in the world of development.  
+I'm **HAX**, a passionate programmer constantly exploring new technologies and expanding my knowledge in the world of development.  
 
 ## 🚀 Technologies & Tools  
 
