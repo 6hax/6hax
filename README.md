@@ -2,6 +2,6 @@
 
 <div align="center">
   <h3>システムアナリスト</h3>
-  <img src="https://skillicons.dev/icons?i=c,ts,js,python,html,css,nodejs,mongodb,express,discordjs,neovim,vscode,sublime" />
+  <img src="https://skillicons.dev/icons?i=c,ts,js,java,python,html,css,nodejs,mongodb,express,discordjs,neovim,vscode,sublime" />
 </div>
  
