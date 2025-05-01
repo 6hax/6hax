@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
 <div align="center">
   <h2 style="font-family: 'Courier', monospace; color: #00FF00;">愛してる、レナタ</h2>
