@@ -9,7 +9,7 @@
     Exploring, creating, controlling.
   </p>
 
-  <img src="https://skillicons.dev/icons?i=c,ts,js,java,python,html,css,nodejs,mongodb,express,flask,neovim,sublime"
+  <img src="https://skillicons.dev/icons?i=c,ts,js,java,python,html,css,nodejs,mongodb,express,flask,vim,neovim,sublime"
        alt="Skills" style="margin-top: 20px;" />
 
 </div>
