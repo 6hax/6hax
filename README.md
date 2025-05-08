@@ -44,7 +44,7 @@
 
 ## 📡 Contact
 
-- 🎮 Discord: `@slyhax`
+- 🎮 Discord: `haxbyte`
 - 🐦 Twitter: [@slyhax](https://twitter.com/slyhax)
 
 ---
