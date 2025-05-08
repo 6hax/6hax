@@ -36,12 +36,16 @@
 ## ⚡ Featured Projects
 
 <div align="center">
-  <a href="https://github.com/slyhax/bubbleSort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=bubbleSort&theme=react&hide_border=true" alt="BubbleSort" />
-  </a>
-  <a href="https://github.com/slyhax/shortURL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=shortURL&theme=react&hide_border=true" alt="ShortnerURL" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=bubbleSort&theme=react&hide_border=true" alt="BubbleSort" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=shortURL&theme=react&hide_border=true" alt="ShortnerURL" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
