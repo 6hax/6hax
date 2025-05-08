@@ -33,23 +33,6 @@
 
 ---
 
-## ⚡ Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=bubbleSort&theme=react&hide_border=true" alt="BubbleSort" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=shortURL&theme=react&hide_border=true" alt="ShortnerURL" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📡 Contact
 
 - 🎮 Discord: `haxbyte`
