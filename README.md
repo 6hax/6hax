@@ -19,26 +19,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=slyhax&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyhax&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=slyhax&show_icons=true&theme=react&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyhax&layout=compact&theme=react&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
 ## ⚡ Featured Projects
 
-- 🔢 **[BubbleSort](https://github.com/slyhax/bubbleSort)** — Bubble Sort implemented in multiple languages.
-- 🔗 **[ShortnerURL](https://github.com/slyhax/shortURL)** — A simple and efficient URL shortener built in Python.
+<div align="center">
+  <a href="https://github.com/slyhax/bubbleSort">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=bubbleSort&theme=react&hide_border=true" alt="BubbleSort" />
+  </a>
+  <a href="https://github.com/slyhax/shortURL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=slyhax&repo=shortURL&theme=react&hide_border=true" alt="ShortnerURL" />
+  </a>
+</div>
 
 ---
 
@@ -48,4 +52,3 @@
 - 🐦 Twitter: [@slyhax](https://twitter.com/slyhax)
 
 ---
-
