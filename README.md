@@ -37,4 +37,3 @@
 - 🎮 Discord: `haxbyte`
 - 🐦 Twitter: [@slyhax](https://twitter.com/slyhax)
 
----
