@@ -30,10 +30,4 @@
   </table>
 </div>
 
----
-
-## 📡 Contact
-
-- 🎮 Discord: `haxbyte`
-- 🐦 Twitter: [@slyhax](https://twitter.com/slyhax)
 
