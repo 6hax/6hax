@@ -11,17 +11,5 @@
 
 </div>
 
----
- 
-<div align="center">
-  <table>
-    <tr>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emptyhax&theme=dark&hide_border=true&background=000000&stroke=009900&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
  
