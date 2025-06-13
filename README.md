@@ -20,8 +20,7 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyhax&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
  
   </div>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emptyhax&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+ 
 
   ## 🌐 Let's Connect
   
