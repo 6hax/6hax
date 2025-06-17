@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Technology+Lover" alt="Typing Animation" />
   
-  <p>17 y/o developer passionate about technology and security</p>
+  <p>17 y/o developer, building my life...</p>
 
   ## 🛠 Tech Stack
   
