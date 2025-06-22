@@ -16,8 +16,8 @@
   ## 📊 GitHub Stats
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 2em;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emptyhax&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyhax&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emptyhax&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyhax&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
  
   </div>
  
