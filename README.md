@@ -13,7 +13,7 @@ MongoDB
 TailwindCSS  
 
 ### 🌱 Currently Learning
-- C++
+- C++, PostgreSQL
 
 ### 🔧 Tools
 - Editors: NeoVim, VS Code, Sublime Text
