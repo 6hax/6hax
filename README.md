@@ -2,14 +2,10 @@
 
 
 ### 💻 Languages & Technologies
-**Proficient:**  
 JavaScript, TypeScript, Java, Python, HTML/CSS  
-**Frameworks:**  
-React, Node.js, Express, Flask   
-**Databases:**  
-MongoDB  
-**Styling:**  
-TailwindCSS  
+React, Node.js, Express, Flask  
+MongoDB, TailwindCSS  
+
 
 ### 🌱 Currently Learning
 - C++, PostgreSQL
