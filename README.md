@@ -1,8 +1,7 @@
-
 ### 💻 Languages & Technologies
-JavaScript, TypeScript, Java, Python, HTML/CSS  
-React, Node.js, Express, Flask  
-MongoDB, TailwindCSS  
+- JavaScript, TypeScript, Java, Python, HTML/CSS  
+- React, Node.js, Express, Flask  
+- MongoDB, TailwindCSS  
 
 
 ### 🌱 Currently Learning
