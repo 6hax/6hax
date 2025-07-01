@@ -1,5 +1,3 @@
-## 🛠️ Tech Stack
-
 
 ### 💻 Languages & Technologies
 JavaScript, TypeScript, Java, Python, HTML/CSS  
