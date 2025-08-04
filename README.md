@@ -1,5 +1,3 @@
 ```bash
-<neo>
-hax
-</neo>
+cout << "hello, im hax" << endl;
 ```
