@@ -1,4 +1,7 @@
-# 💻 Tech Enthusiast & Developer
+## 🚀 About Me  
+Hey there! 👋 I'm an 18-year-old passionate developer who loves exploring new technologies and building cool stuff. Programming and technology are my playgrounds, and I'm always eager to learn and grow in this ever-evolving field.  
+
+---
 
 ### 🛠️ Tech Stack
 **Languages**:  
@@ -20,5 +23,3 @@ MongoDB, TailwindCSS
 - **Operating Systems**: Windows/Linux  
 - **Version Control**: Git  
 
-## 🚀 About Me  
-Hey there! 👋 I'm an 18-year-old passionate developer who loves exploring new technologies and building cool stuff. Programming and technology are my playgrounds, and I'm always eager to learn and grow in this ever-evolving field.  
