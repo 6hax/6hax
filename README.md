@@ -4,14 +4,10 @@ Hey there! 👋 I'm an 18 year old passionate developer who loves exploring new 
 ---
 
 ### 🛠️ Tech Stack
-**Languages**:  
-JavaScript, TypeScript, Java, Python, HTML/CSS  
 
-**Frameworks & Libraries**:  
-React, Node.js, Express, Flask  
-
-**Databases & Styling**:  
-MongoDB, TailwindCSS  
+- JavaScript, TypeScript, Java, Python, HTML/CSS  
+- React, Node.js, Express, Flask  
+- MongoDB, TailwindCSS  
 
 ### 🌱 Currently Learning  
 - C++ 
