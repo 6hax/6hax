@@ -1,19 +1,24 @@
-### 💻 Languages & Technologies
-- JavaScript, TypeScript, Java, Python, HTML/CSS  
-- React, Node.js, Express, Flask  
-- MongoDB, TailwindCSS  
+# 💻 Tech Enthusiast & Developer
 
+### 🛠️ Tech Stack
+**Languages**:  
+JavaScript, TypeScript, Java, Python, HTML/CSS  
 
-### 🌱 Currently Learning
-- C++, PostgreSQL
+**Frameworks & Libraries**:  
+React, Node.js, Express, Flask  
 
-### 🔧 Tools
-- Editors: NeoVim, VS Code, Sublime Text
-- OS: Windows/Linux
-- Version Control: Git
+**Databases & Styling**:  
+MongoDB, TailwindCSS  
 
-## **📊 GitHub Analytics**  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6hax&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6hax&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+### 🌱 Currently Learning  
+- C++ 
+- PostgreSQL 
+- Docker  
+
+### 🔧 Tools & Environments  
+- **Code Editors**: NeoVim, VS Code, Sublime Text  
+- **Operating Systems**: Windows/Linux  
+- **Version Control**: Git  
+
+## 🚀 About Me  
+Hey there! 👋 I'm an 18-year-old passionate developer who loves exploring new technologies and building cool stuff. Programming and technology are my playgrounds, and I'm always eager to learn and grow in this ever-evolving field.  
