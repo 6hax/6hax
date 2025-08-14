@@ -1,8 +1,3 @@
-## 🚀 About Me  
-Hey there! 👋 I'm an 18 year old passionate developer who loves exploring new technologies and building cool stuf
-
----
-
 ### 🛠️ Tech Stack
 
 - JavaScript, TypeScript, Java, Python, HTML/CSS  
