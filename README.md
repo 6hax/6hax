@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-Hey there! 👋 I'm an 18 year old passionate developer who loves exploring new technologies and building cool stuff. Programming and technology are my playgrounds, and I'm always eager to learn and grow in this ever-evolving field.  
+Hey there! 👋 I'm an 18 year old passionate developer who loves exploring new technologies and building cool stuf
 
 ---
 
