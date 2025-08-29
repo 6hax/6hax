@@ -4,19 +4,16 @@
 - React, Node.js, Express, Flask  
 - MongoDB, TailwindCSS  
 
----
 
 ### Currently Learning
 - Ruby, Docker, PostgreSQL
 
----
 
 ### Tools
 - Editors: NeoVim, VS Code, Sublime Text
 - OS: Windows
 - Version Control: Git
 
----
 
 ## **GitHub Analytics**  
 <p align="center">
