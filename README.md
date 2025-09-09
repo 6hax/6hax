@@ -1,3 +1,3 @@
-```javascript
-console.log('hello, im hax')
+```cpp
+cout << "hello, im hax" << endl;
 ```
