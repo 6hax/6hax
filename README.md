@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  <img src="ghost.gif" alt="ghost gif" width="140"/>
+  <img src="ghost.gif" alt="ghost gif" width="120"/>
   <h1>Hi, I'm Hax 👋</h1>
 </div>
 
