@@ -13,4 +13,4 @@ const hax = {
 - Twitter: [haxfwck](https://x.com/haxfwck)
 - Instagram: [haxdyn](https://www.instagram.com/haxdyn/)
 
-> “simplicity is the ultimate sophistication.”
+> _“everythings happens for a reason.”_
