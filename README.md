@@ -1,6 +1,5 @@
-Hi there 👋
----
-🌐 Connect w/ Me
+
+### 🌐 Connect w/ Me
 
 - Twitter: [haxfwck](https://x.com/haxfwck)
 - Instagram: [haxdyn](https://www.instagram.com/haxdyn/)
