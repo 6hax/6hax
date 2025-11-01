@@ -2,6 +2,6 @@
 ### 🌐 Connect w/ Me
 
 - Twitter: [haxfwck](https://x.com/haxfwck)
-- Instagram: [haxdyn](https://www.instagram.com/haxdyn/)
+- Instagram: [haxhashing](https://www.instagram.com/haxhashing/)
 
 > _“everythings happens for a reason.”_
