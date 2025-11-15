@@ -1,7 +1,5 @@
-
 ### 🌐 Connect w/ Me
 
-- Twitter: [hax16bit](https://x.com/hax16bit)
-- Instagram: [haxhashing](https://www.instagram.com/haxhashing/)
+[@hax16bit](https://x.com/hax16bit) / [@haxhashing](https://www.instagram.com/haxhashing/)
 
-> _“everythings happens for a reason.”_
+> _“Everything happens for a reason.”_
